@@ -1,0 +1,17 @@
+{
+  "name": "conversationserver",
+  "version": "1.0.0",
+  "description": "Server component for conversation Ember project.",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.3",
+    "mongoose": "^4.3.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Top <dtop@optay.com>",
+  "license": "ISC"
+}
